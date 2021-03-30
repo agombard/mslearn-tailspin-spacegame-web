@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/7135/DA%20Test/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/7135/DA%20Test/_build/latest?definitionId=11&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
